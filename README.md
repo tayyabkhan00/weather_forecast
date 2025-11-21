@@ -17,7 +17,7 @@ A beautiful, interactive weather dashboard built with Python and Streamlit that 
 
 📱 Responsive Design - Works on desktop and mobile devices
 
-🚀 Live Demo
+🚀 [Live Demo](https://weatherforecast-esyhvpslj6hynmm9lplzeh.streamlit.app/)
 
 
 🛠️ Installation
@@ -48,11 +48,15 @@ http://localhost:8501
 text
 weather-dashboard/
 │
-├── weather_dashboard.py      # Main application file
+├── weather_dashboard.py   # Main application file
+
 ├── requirements.txt          # Python dependencies
+
 ├── .streamlit/
 │   └── config.toml          # Streamlit configuration
+
 └── README.md                # This file
+
 🔧 Configuration
 API Key Setup
 The app uses WeatherAPI.com. You can:
