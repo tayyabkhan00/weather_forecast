@@ -30,7 +30,7 @@ Local Setup
 Clone the repository
 
 bash
-git clone https://github.com/tayyabkhan00/weather_forecast.git
+[git clone](https://github.com/tayyabkhan00/weather_forecast.git)
 cd weather-dashboard
 Install dependencies
 
@@ -41,21 +41,6 @@ Run the application
 bash
 streamlit run weather_dashboard.py
 Open your browser
-
-text
-http://localhost:8501
-📁 Project Structure
-text
-weather-dashboard/
-│
-├── weather_dashboard.py   # Main application file
-
-├── requirements.txt          # Python dependencies
-
-├── .streamlit/
-│   └── config.toml          # Streamlit configuration
-
-└── README.md                # This file
 
 🔧 Configuration
 API Key Setup
